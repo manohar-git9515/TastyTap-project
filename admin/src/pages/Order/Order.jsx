@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import './order.css'
+import './Order.css'
 import { toast } from 'react-toastify'
 import axios from 'axios'
 import { assets } from "../../assets/assets"
