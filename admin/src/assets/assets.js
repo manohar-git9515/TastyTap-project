@@ -19,4 +19,4 @@ export default {
   // other assets
 };
 
-export const url = 'http://localhost:4002'
+export const url = 'https://tastytap-backend-q57w.onrender.com'
